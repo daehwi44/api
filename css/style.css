@@ -1,0 +1,18 @@
+#english,
+#japanese {
+
+    height: 200px;
+    width: 800px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+#output1 {
+    margin-bottom: 50px;
+}
+
+#keyword {
+    height: 50px;
+    width: 800px;
+    font-size: 20px;
+}
